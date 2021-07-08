@@ -3,5 +3,5 @@
     "version": 2.0,
     "host": "raw.githubusercontent.com",
     "port": 443,
-    "bin": "/vkapadia70/fw_ota/firmware.bin"
+    "bin": "/vkapadia70/fw_ota/main/firmware.bin"
 }
