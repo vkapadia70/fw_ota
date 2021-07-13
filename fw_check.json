@@ -1,6 +1,6 @@
 {
     "type": "Pre-Foundation",
-    "version": "0.1.1",
+    "version": "0.1",
     "host": "raw.githubusercontent.com",
     "port": 443,
     "bin": "/vkapadia70/fw_ota/main/firmware.bin"
