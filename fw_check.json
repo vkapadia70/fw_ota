@@ -1,7 +1,14 @@
 {
-    "type": "Pre-Foundation",
-    "version": "0.2",
+  "Pre-Foundation": {
+    "version": "PF-0.1.1",
     "host": "raw.githubusercontent.com",
     "port": 443,
-    "bin": "/vkapadia70/fw_ota/main/firmware.bin"
+    "bin": "/vkapadia70/CS_FW/blob/master/src/fw_ota/firmware.bin"
+  },
+  "Mall-Charger": {
+    "version": "MC-0.1.1",
+    "host": "raw.githubusercontent.com",
+    "port": 443,
+    "bin": "/vkapadia70/CS_FW/blob/master/src/fw_ota/firmware.bin"
+  }
 }
