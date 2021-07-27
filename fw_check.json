@@ -1,6 +1,6 @@
 {
   "Pre-Foundation": {
-    "version": "PF-0.1",
+    "version": "PF-0.2",
     "host": "raw.githubusercontent.com",
     "port": 443,
     "bin": "/vkapadia70/CS_FW/blob/master/src/fw_ota/firmware.bin"
